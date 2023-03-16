@@ -30,7 +30,7 @@
   }
 }
 
-@media all and (max-width: 406px) {
+@media all and (max-width: 410px) {
   .email {
     margin-right: 0;
     margin-bottom: 12px;
@@ -39,7 +39,7 @@
     width: 0;
   }
 
-  .berangkat {
+  .berangkat 
     width: 0;
   } */
 }
