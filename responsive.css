@@ -1,9 +1,5 @@
 /* Untuk Tablet */
 @media all and (max-width: 800px) {
-  .row {
-    flex-direction: column;
-  }
-
   footer {
     text-align: center;
     justify-content: center;
