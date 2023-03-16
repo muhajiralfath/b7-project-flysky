@@ -1,0 +1,35 @@
+/* Untuk Tablet */
+@media all and (max-width: 800px) {
+  .row {
+    flex-direction: column;
+  }
+
+  footer {
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+  }
+
+  .footer-col {
+    margin: 0 auto;
+  }
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+  .hright {
+    display: none;
+  }
+
+  .navbar {
+    display: none;
+  }
+
+  #menu-icon {
+    display: block;
+  }
+
+  .product-heading h2 {
+    font-size: 1.8rem;
+  }
+}
