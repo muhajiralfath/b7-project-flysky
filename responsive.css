@@ -30,7 +30,7 @@
   }
 }
 
-@media all and (max-width: 375px) {
+@media all and (max-width: 406px) {
   .email {
     margin-right: 0;
     margin-bottom: 12px;
