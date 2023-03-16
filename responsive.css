@@ -29,3 +29,17 @@
     font-size: 1.8rem;
   }
 }
+
+@media all and (max-width: 375px) {
+  .email {
+    margin-right: 0;
+    margin-bottom: 12px;
+  }
+  /* .pulang {
+    width: 0;
+  }
+
+  .berangkat {
+    width: 0;
+  } */
+}
